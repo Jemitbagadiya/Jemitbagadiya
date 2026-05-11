@@ -85,7 +85,7 @@ Full Stack Notes Management System:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jemitbagadiya&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jemitbagadiya&theme=tokyonight" alt="streak" />
 </p>
 
 ---
